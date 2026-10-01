@@ -82,7 +82,7 @@ async function renderChart() {
                 plugins: {
                     title: {
                         display: true,
-                        text: 'Celery vs. Carrots at the 10 Stations with the Most Vegetables'
+                        text: 'Bikes vs. E-bikes at the 10 Stations with the Most Bikes Available'
                     },
                     legend: {
                         display: true,
